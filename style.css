@@ -1,0 +1,32 @@
+body{
+    background-color: #87B6BC;
+}
+.firsth1{
+    color: #5A2D82;
+    text-align: center;
+    background-color: #FFF8F0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.firsth2{
+    text-align: center;
+    color: #4B2E5E;
+    background-color: #FFF8F0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.firsth3{
+    color: #5A2D82;
+    background-color: #FFF8F0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.aboutyoga{
+    color: #5A2D82;
+    background-color: #FFF8F0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
