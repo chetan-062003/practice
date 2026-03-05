@@ -30,3 +30,33 @@ img{
     display: block;
     margin: auto;
 }
+
+@media (max-width:680px){
+
+body{
+padding:15px;
+text-align:center;
+}
+
+img{
+width:100%;
+height:auto;
+}
+
+.aboutyoga{
+width:100%;
+}
+
+.firsth{
+font-size:28px;
+}
+
+.firsth2{
+font-size:20px;
+}
+
+ul{
+padding-left:20px;
+}
+
+}
